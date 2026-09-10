@@ -603,6 +603,9 @@ section h2{
 .whatsapp-btn i {
     font-size: 32px;
     color: white;
+    font-size: 10px;
+    text-align: center;
+
 }
 
 .whatsapp-btn:hover {
